@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 180,
+      "repeat-delay": 30,
       "messages": [
         "im lost again",
         "my bawls hurts",
