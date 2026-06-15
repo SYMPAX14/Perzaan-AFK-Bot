@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 30,
       "messages": [
-        "im lost again",
-        "my bawls hurts",
-        "dawg im tired here"
+        "bot update(online)",
+        "Bot update(online",
+        "bot update(online)"
       ]
     },
     "chat-log": true,
